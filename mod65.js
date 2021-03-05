@@ -4,4 +4,4 @@ function sum(num){
 	}
 }
 
-sum(5)(5)
+console.log(sum(5)(10));
